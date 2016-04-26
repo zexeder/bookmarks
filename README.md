@@ -11,3 +11,7 @@ http://www.flashuser.net/responsive-flat-menu-tutorial
 http://gaserge.ru/blog/modx-revolution/filtryi-phx-(-modifikatoryi-)-v-modx-revo.html
 <br>
 https://rtfm.modx.com/extras/revo/formit/formit.tutorials-and-examples/formit.examples.simple-contact-page
+<br>
+https://habrahabr.ru/post/243335/
+<br>
+https://habrahabr.ru/post/123339/
