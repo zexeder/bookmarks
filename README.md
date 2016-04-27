@@ -19,3 +19,5 @@ https://habrahabr.ru/post/123339/
 http://modx.ws/frontend-gulp-urok
 <br>
 https://vk.com/wall-79831840_5837
+<br>
+https://webref.ru/dev/jqfundamentals
