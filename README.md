@@ -21,3 +21,27 @@ http://modx.ws/frontend-gulp-urok
 https://vk.com/wall-79831840_5837
 <br>
 https://webref.ru/dev/jqfundamentals
+
+
+<strong>ModX</strong>
+<br>
+Плагины
+<br>
+Ace (редактор)
+<br>
+FormIt (формы)
+<br>
+pdoTools
+<br>
+
+<br>
+<strong>WP</strong>
+<br>
+Плагины
+<br>
+WPBakery Visual Composer (Modified Version) - <em>Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required.</em>
+<br>
+Spider Event Calendar
+<br>
+All In One WP Security
+<br>
