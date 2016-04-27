@@ -17,3 +17,5 @@ https://habrahabr.ru/post/243335/
 https://habrahabr.ru/post/123339/
 <br>
 http://modx.ws/frontend-gulp-urok
+<br>
+https://vk.com/wall-79831840_5837
