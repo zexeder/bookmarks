@@ -1,6 +1,6 @@
 # Bookmarks
-Мои закладки
 
+##Мои закладки
 
 https://naltatis.github.io/jade-syntax-docs/
 <br>
@@ -18,10 +18,9 @@ https://habrahabr.ru/post/123339/
 <br>
 http://modx.ws/frontend-gulp-urok
 <br>
-https://vk.com/wall-79831840_5837
-<br>
-https://webref.ru/dev/jqfundamentals
-[NPM] (http://hase.su/npm-i-package-json-chto-eto-takoe-i-kak-ego-gotovit/)
+* https://vk.com/wall-79831840_5837
+* https://webref.ru/dev/jqfundamentals
+* http://hase.su/npm-i-package-json-chto-eto-takoe-i-kak-ego-gotovit/
 
 <strong>ModX</strong>
 <br>
@@ -34,8 +33,8 @@ FormIt (формы)
 pdoTools
 <br>
 
-<br>
-<strong>WP</strong>
+
+##WP
 <br>
 Плагины
 <br>
