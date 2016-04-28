@@ -21,7 +21,7 @@ http://modx.ws/frontend-gulp-urok
 https://vk.com/wall-79831840_5837
 <br>
 https://webref.ru/dev/jqfundamentals
-
+[NPM] (http://hase.su/npm-i-package-json-chto-eto-takoe-i-kak-ego-gotovit/)
 
 <strong>ModX</strong>
 <br>
