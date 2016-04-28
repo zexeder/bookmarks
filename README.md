@@ -13,6 +13,7 @@
 * https://vk.com/wall-79831840_5837
 * https://webref.ru/dev/jqfundamentals
 * http://hase.su/npm-i-package-json-chto-eto-takoe-i-kak-ego-gotovit/
+* [Hiding Files and directories in Sublime Text] (https://marcjenkins.co.uk/hiding-files-and-directories-in-a-sublime-text-project/)
 
 ##ModX
 **Плагины**
