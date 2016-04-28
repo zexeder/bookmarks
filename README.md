@@ -22,16 +22,12 @@ http://modx.ws/frontend-gulp-urok
 * https://webref.ru/dev/jqfundamentals
 * http://hase.su/npm-i-package-json-chto-eto-takoe-i-kak-ego-gotovit/
 
-<strong>ModX</strong>
-<br>
+##ModX
+
 Плагины
-<br>
-Ace (редактор)
-<br>
-FormIt (формы)
-<br>
-pdoTools
-<br>
+* Ace (редактор)
+* FormIt (формы)
+* pdoTools
 
 
 ##WP
@@ -39,8 +35,6 @@ pdoTools
 Плагины
 <br>
 WPBakery Visual Composer (Modified Version) - <em>Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required.</em>
-<br>
-Spider Event Calendar
-<br>
-All In One WP Security
-<br>
+* Spider Event Calendar
+* All In One WP Security
+
