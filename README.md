@@ -18,7 +18,7 @@
 * https://www.reddit.com/r/Frontend/comments/46k6bo/trying_to_add_jade_and_improve_my_gulp_project/
 * [The Sass Way] (http://thesassway.com/)
 * [Top 10 Sass Mixins] (http://engageinteractive.co.uk/blog/top-10-scss-mixins)
-
+* [gulp-for-beginners (css-tricks)] (https://css-tricks.com/gulp-for-beginners/)
 
 ##ModX
 **Плагины**
