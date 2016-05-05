@@ -15,6 +15,7 @@
 * http://hase.su/npm-i-package-json-chto-eto-takoe-i-kak-ego-gotovit/
 * [Hiding Files and directories in Sublime Text] (https://marcjenkins.co.uk/hiding-files-and-directories-in-a-sublime-text-project/)
 * http://andrew-r.ru/notes/
+* https://www.reddit.com/r/Frontend/comments/46k6bo/trying_to_add_jade_and_improve_my_gulp_project/
 
 
 ##ModX
