@@ -21,6 +21,7 @@
 * [gulp-for-beginners (css-tricks)] (https://css-tricks.com/gulp-for-beginners/)
 * [Полное руководство по псевдоклассам] (http://prgssr.ru/development/polnoe-rukovodstvo-po-psevdoklassam-i-psevdoelementam.html)
 * [Cardova js] (https://xakep.ru/2014/09/24/phonegap/)
+* https://www.smashingmagazine.com/
 
 ##ModX
 **Плагины**
