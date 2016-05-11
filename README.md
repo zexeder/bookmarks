@@ -22,6 +22,7 @@
 * [Полное руководство по псевдоклассам] (http://prgssr.ru/development/polnoe-rukovodstvo-po-psevdoklassam-i-psevdoelementam.html)
 * [Cardova js] (https://xakep.ru/2014/09/24/phonegap/)
 * https://www.smashingmagazine.com/
+* [http://dudleystorey.github.io/thenewdefaults/] (colors)
 
 ##ModX
 **Плагины**
