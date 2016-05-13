@@ -33,7 +33,7 @@
 * Ace (редактор)
 * FormIt (формы)
 * pdoTools
-* phpthumboff
+* phpthumbof
 * translit
 * collection
 * tinymce
