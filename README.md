@@ -33,6 +33,10 @@
 * Ace (редактор)
 * FormIt (формы)
 * pdoTools
+* phpthumboff
+* translit
+* collection
+* tinymce
 
 
 ##WP
