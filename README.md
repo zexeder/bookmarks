@@ -23,7 +23,11 @@
 * [Cardova js] (https://xakep.ru/2014/09/24/phonegap/)
 * https://www.smashingmagazine.com/
 * [http://dudleystorey.github.io/thenewdefaults/] (colors)
+* http://modx.ws/instrumenty-razrabotchika-chrome-razmetka-stil
+* http://modx.ws/blog/uroki-modx-revolution/
+* http://modx.ws/instrumenty-razrabotchika-2
 
+`
 ##ModX
 **Плагины**
 * Ace (редактор)
