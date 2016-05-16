@@ -30,7 +30,7 @@
 `
 ##ModX
 **Плагины**
-* Ace (редактор)
+* Ace (редактор) [HotKeys] (https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts)
 * FormIt (формы)
 * pdoTools
 * phpthumbof
