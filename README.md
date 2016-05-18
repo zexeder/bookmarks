@@ -26,7 +26,7 @@
 * http://modx.ws/instrumenty-razrabotchika-chrome-razmetka-stil
 * http://modx.ws/blog/uroki-modx-revolution/
 * http://modx.ws/instrumenty-razrabotchika-2
-
+* [Интерактивные уроки для веб-разработчика] (http://modx.ws/interaktivnyie-uroki-dlya-web-razrabotchikov)
 `
 ##ModX
 **Плагины**
