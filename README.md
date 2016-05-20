@@ -27,7 +27,8 @@
 * http://modx.ws/blog/uroki-modx-revolution/
 * http://modx.ws/instrumenty-razrabotchika-2
 * [Интерактивные уроки для веб-разработчика] (http://modx.ws/interaktivnyie-uroki-dlya-web-razrabotchikov)
-`
+
+
 ##ModX
 **Плагины**
 * Ace (редактор) [HotKeys] (https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts)
@@ -37,6 +38,10 @@
 * translit
 * collection
 * tinymce
+* Tickets
+* SimpleSearch
+* BannerY
+* Taglister (?)
 
 
 ##WP
