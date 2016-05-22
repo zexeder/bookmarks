@@ -27,6 +27,7 @@
 * http://modx.ws/blog/uroki-modx-revolution/
 * http://modx.ws/instrumenty-razrabotchika-2
 * [Интерактивные уроки для веб-разработчика] (http://modx.ws/interaktivnyie-uroki-dlya-web-razrabotchikov)
+* [Типичные ошибки начинающих верстальщиков] (https://htmlforum.ru/topic/47375-tipichnyie-oshibki-nachinayushhego-verstalshhika/)
 
 
 ##ModX
