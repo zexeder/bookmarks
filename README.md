@@ -29,7 +29,8 @@
 * [Интерактивные уроки для веб-разработчика] (http://modx.ws/interaktivnyie-uroki-dlya-web-razrabotchikov)
 * [Типичные ошибки начинающих верстальщиков] (https://htmlforum.ru/topic/47375-tipichnyie-oshibki-nachinayushhego-verstalshhika/)
 * [https://xakep.ru/2014/07/28/sublime-text-not-for-coding/] Sublime Text для редактора текста
-
+http://vk.com/jsraccoon/sass
+https://sass-guidelin.es/ru/
 
 ##ModX
 **Плагины**
