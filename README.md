@@ -53,3 +53,70 @@ https://sass-guidelin.es/ru/
 * Spider Event Calendar
 * All In One WP Security
 
+
+<table>
+<thead>
+<tr>
+<th>Windows</th>
+<th>Mac OS</th>
+<th>Unix/Linux</th>
+<th>Родовое семейство</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arial Black</td>
+<td>Helvetica CY</td>
+<td>Nimbus Sans L</td>
+<td>Sans-serif</td>
+</tr>
+<tr>
+<td>Arial</td>
+<td>Helvetica CY</td>
+<td>Nimbus Sans L</td>
+<td>Sans-serif</td>
+</tr>
+<tr>
+<td>Comic Sans MS</td>
+<td>Monaco CY</td>
+<td>* (см. ниже)</td>
+<td>cursive</td>
+</tr>
+<tr>
+<td>Courier New</td>
+<td>* (см. ниже)</td>
+<td>Nimbus Mono L</td>
+<td>Monospace</td>
+</tr>
+<tr>
+<td>Georgia</td>
+<td>* (см. ниже)</td>
+<td>Century Schoolbook L</td>
+<td>Serif</td>
+</tr>
+<tr>
+<td>Impact</td>
+<td>Charcoal CY</td>
+<td>* (см. ниже)</td>
+<td>Sans-serif</td>
+</tr>
+<tr>
+<td>Times New Roman</td>
+<td>Times CY</td>
+<td>Nimbus Roman No9 L</td>
+<td>Serif</td>
+</tr>
+<tr>
+<td>Trebuchet MS</td>
+<td>Helvetica CY</td>
+<td>* (см. ниже)</td>
+<td>Sans-serif</td>
+</tr>
+<tr>
+<td>Verdana</td>
+<td>Geneva CY</td>
+<td>DejaVu Sans</td>
+<td>Sans-serif</td>
+</tr>
+</tbody>
+</table>
