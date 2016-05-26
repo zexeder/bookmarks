@@ -53,7 +53,7 @@ https://sass-guidelin.es/ru/
 * Spider Event Calendar
 * All In One WP Security
 
-
+##Безопасные шрифты
 <table>
 <thead>
 <tr>
@@ -120,3 +120,4 @@ https://sass-guidelin.es/ru/
 </tr>
 </tbody>
 </table>
+http://lamp-dev.ru/verstalshhiku-o-shriftax-bezopasnye-shrifty-185.html
