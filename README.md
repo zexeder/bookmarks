@@ -31,6 +31,8 @@
 * [https://xakep.ru/2014/07/28/sublime-text-not-for-coding/] Sublime Text для редактора текста
 http://vk.com/jsraccoon/sass
 https://sass-guidelin.es/ru/
+http://4pda.ru/forum/index.php?showtopic=604161
+http://ru.aliexpress.com/item/100-Original-Xiaomi-Mi-Band-Smart-Miband-Bracelet-For-Android-4-4-IOS-7-0-MI3/32358399277.html
 
 ##ModX
 **Плагины**
