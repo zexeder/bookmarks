@@ -29,8 +29,8 @@
 * [Интерактивные уроки для веб-разработчика] (http://modx.ws/interaktivnyie-uroki-dlya-web-razrabotchikov)
 * [Типичные ошибки начинающих верстальщиков] (https://htmlforum.ru/topic/47375-tipichnyie-oshibki-nachinayushhego-verstalshhika/)
 * [https://xakep.ru/2014/07/28/sublime-text-not-for-coding/] Sublime Text для редактора текста
-http://vk.com/jsraccoon/sass
-https://sass-guidelin.es/ru/
+* http://vk.com/jsraccoon/sass
+* https://sass-guidelin.es/ru/
 http://4pda.ru/forum/index.php?showtopic=604161
 http://ru.aliexpress.com/item/100-Original-Xiaomi-Mi-Band-Smart-Miband-Bracelet-For-Android-4-4-IOS-7-0-MI3/32358399277.html
 http://4pda.ru/pages/go/?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcheck.energy.low.bluetooth&e=34600637
@@ -55,6 +55,11 @@ http://4pda.ru/pages/go/?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetail
 * WPBakery Visual Composer (Modified Version) - <em>Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required.</em>
 * Spider Event Calendar
 * All In One WP Security
+
+##Python
+* http://pythontutor.ru/
+* http://pythonworld.ru/samouchitel-python
+
 
 ##Безопасные шрифты
 <table>
