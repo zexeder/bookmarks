@@ -129,3 +129,11 @@ http://4pda.ru/pages/go/?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetail
 </tbody>
 </table>
 http://lamp-dev.ru/verstalshhiku-o-shriftax-bezopasnye-shrifty-185.html
+
+
+
+http://ru.aliexpress.com/item/Micro-USB-Cable-Colorful-1M-3-FT-Long-Flat-Micro-USB-Data-Sync-Charging-Cable-Cord/32624642525.html
+http://ru.aliexpress.com/item/Hot-Sale-Elegant-Clear-925-Silver-Sterling-Plated-Twist-Drop-Long-Earring-Earrings-Wedding-Party-Feast/32573584674.html
+http://ru.aliexpress.com/item/Women-s-Zircon-Topaz-925-Sterling-Silver-Drop-Dangle-Chain-Earrings/32266898221.html (Они очень нежные, миниатюрные и изящные... куплю вторые теперь.)
+[http://ru.aliexpress.com/item/1-Pcs-New-Useful-Lazy-Dusting-Cleaning-Foot-Cleaner-Shoe-Mop-Slipper-Floor-Polishing-Cover-Convenient/32440365253.html] (Тапочки для пола)
+http://ru.aliexpress.com/item/New-fashion-jewelry-set-white-gold-plated-crystal-drop-pendant-necklace-earring-Top-quality-gift-for/1977193724.html\
