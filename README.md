@@ -34,7 +34,7 @@
 http://4pda.ru/forum/index.php?showtopic=604161
 http://ru.aliexpress.com/item/100-Original-Xiaomi-Mi-Band-Smart-Miband-Bracelet-For-Android-4-4-IOS-7-0-MI3/32358399277.html
 http://4pda.ru/pages/go/?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcheck.energy.low.bluetooth&e=34600637
-
+https://habrahabr.ru/post/171699/
 ##ModX
 **Плагины**
 * Ace (редактор) [HotKeys] (https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts)
