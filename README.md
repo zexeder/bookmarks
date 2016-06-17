@@ -32,6 +32,7 @@
 * http://vk.com/jsraccoon/sass
 * https://sass-guidelin.es/ru/
 * https://github.com/zualex/frontend-template
+* http://regexr.com/
 
 http://4pda.ru/forum/index.php?showtopic=604161
 http://ru.aliexpress.com/item/100-Original-Xiaomi-Mi-Band-Smart-Miband-Bracelet-For-Android-4-4-IOS-7-0-MI3/32358399277.html
