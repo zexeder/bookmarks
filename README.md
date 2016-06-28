@@ -31,12 +31,15 @@
 * [https://xakep.ru/2014/07/28/sublime-text-not-for-coding/] Sublime Text для редактора текста
 * http://vk.com/jsraccoon/sass
 * https://sass-guidelin.es/ru/
-* https://github.com/zualex/frontend-template
 * http://regexr.com/
 * [sublime presentation] (http://aalexeev239.github.io/sublime-presentation/)
 * [Gulp для самых маленьких (webdesign-master)] (http://webdesign-master.ru/blog/tools/2016-06-04-sass.html)
 * [How to became developer] (https://vc.ru/p/how-to-became-developer)
 * https://css-tricks.com/video-screencasts/148-laying-things-html-flexbox-dee-gill/
+
+##Template Front-End
+* https://github.com/zualex/frontend-template
+* [gulp] (https://github.com/agragregra/gulp-lesson)
 
 http://4pda.ru/forum/index.php?showtopic=604161
 http://ru.aliexpress.com/item/100-Original-Xiaomi-Mi-Band-Smart-Miband-Bracelet-For-Android-4-4-IOS-7-0-MI3/32358399277.html
