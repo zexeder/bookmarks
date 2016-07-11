@@ -38,6 +38,7 @@
 * https://css-tricks.com/video-screencasts/148-laying-things-html-flexbox-dee-gill/
 * https://tproger.ru/digest/modern-css/
 * https://tproger.ru/digest/10-new-technologies/
+* [Относитесь к сеткам проще] (http://css-live.ru/articles/otnosites-k-setkam-na-fleksboksax-proshhe.html)
 
 ##Template Front-End
 * https://github.com/zualex/frontend-template
