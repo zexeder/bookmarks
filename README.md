@@ -37,6 +37,7 @@
 * [How to became developer] (https://vc.ru/p/how-to-became-developer)
 * https://css-tricks.com/video-screencasts/148-laying-things-html-flexbox-dee-gill/
 * https://tproger.ru/digest/modern-css/
+* https://tproger.ru/digest/10-new-technologies/
 
 ##Template Front-End
 * https://github.com/zualex/frontend-template
