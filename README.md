@@ -36,6 +36,7 @@
 * [Gulp для самых маленьких (webdesign-master)] (http://webdesign-master.ru/blog/tools/2016-06-04-sass.html)
 * [How to became developer] (https://vc.ru/p/how-to-became-developer)
 * https://css-tricks.com/video-screencasts/148-laying-things-html-flexbox-dee-gill/
+* https://tproger.ru/digest/modern-css/
 
 ##Template Front-End
 * https://github.com/zualex/frontend-template
